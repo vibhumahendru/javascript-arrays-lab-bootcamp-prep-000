@@ -37,3 +37,9 @@ function removeLastKitten (x){
   return y
   }
   
+  var kittens = ['Milo', 'Otis', 'Garfield']
+function removeLastKitten (x){
+  var y = kittens.slice(0,2)
+  return y
+  }
+  
