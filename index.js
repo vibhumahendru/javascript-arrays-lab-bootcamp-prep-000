@@ -39,7 +39,7 @@ function removeLastKitten (x){
   
   var kittens = ['Milo', 'Otis', 'Garfield']
 function removeFirstKitten (x){
-  var y = kittens.slice(-2,-1)
+  var y = kittens.slice(-3,-1)
   return y
   }
   
